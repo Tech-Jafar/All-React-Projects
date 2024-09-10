@@ -28,7 +28,7 @@ cd tech-app
 npm start
 ```
 
-<h3> what is npm and npx </h3>
+<h3>What is npm and npx </h3>
 <ul>
   <li>
     <b>npm</b> (Node Package Manager): It's used to install packages globally or locally in your project. For React, you typically run:
@@ -44,7 +44,7 @@ cd tech-app
 npm install
 npm run dev
 ```
-<h3>what is vite+react</h3>
+<h3>What is vite+react</h3>
 <p>Vite is a fast build tool for modern web projects. To create a React app with Vite, use:
 It offers faster dev servers and optimized builds compared to traditional tools like Create React App.
 </p>
